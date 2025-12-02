@@ -135,4 +135,6 @@
   --footer-default-invert-orange-a-color-custom: var(--color-quarternary);
   --footer-default-invert-orange-a-color-hover-custom: var(--color-quarternary);
   --footer-default-boarder-right: none;
+  --footer-default-invert-color-hover-custom: #fff;
+  --footer-default-invert-color-hover: #fff;
 }
